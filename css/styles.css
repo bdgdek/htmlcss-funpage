@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 40px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.js-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.bdg-img {
+    width: 200px;
+}
+
+hr {
+    border-bottom: dotted 5px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    color: #EAF6F6;
+    width: 3%;
+}
+
+.my-skills {
+    margin-bottom: 0px;
+}
+
+.welcome-to-this-project {
+    margin-bottom: 50px;
+}
+
+.bottom-container {
+    width: 100%;
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+
+    padding: 25px;
+}
+
+.copy-right {
+    color: #EAF6F6;
+   
+}
+
+.footer-link {
+    margin-right: 25px;
+}
+
